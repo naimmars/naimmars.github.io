@@ -1,0 +1,6 @@
+{
+  "name": "naimmars.github.io",
+  "dependencies": {
+    "angular-bootstrap": "~0.13.4"
+  }
+}
